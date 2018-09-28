@@ -1,0 +1,11 @@
+{
+  "Basic information": [{
+    "key": "github",
+    "label": "Github username",
+    "required": true
+  }, {
+    "key": "birthday",
+    "label": "Birthday",
+    "type": "date"
+  }]
+}
