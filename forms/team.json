@@ -1,9 +1,9 @@
 [
   {
     "admin": true,
-    "fname": "Tristen",
-    "lname": "Brown",
-    "email": "tristen.brown@gmail.com",
+    "fname": "Joe",
+    "lname": "Chapman",
+    "email": "made.up@gmail.com",
     "sex": "xy",
     "birthday": "1912-11-26",
     "office": "dc",
@@ -15,20 +15,20 @@
       "operations",
       "support"
     ],
-    "twitter": "fallsemo",
-    "github": "tristen",
-    "foursquare": "fallsemo",
+    "twitter": "joejoetweet",
+    "github": "joegit",
+    "foursquare": "whatsthis",
     "other-links": [
       {
         "name": "instagram",
-        "value": "tristen"
+        "value": "joe"
       }
     ]
   },
   {
-    "fname": "Freddie",
-    "lname": "Hubbard",
-    "email": "freddiehubbard@gmail.com",
+    "fname": "Christopher",
+    "lname": "Storey",
+    "email": "tellmeastorey@gmail.com",
     "sex": "xy",
     "birthday": "1938-10-01",
     "office": "sf",
@@ -36,14 +36,14 @@
     "teams": [
       "design"
     ],
-    "twitter": "freddiehubbard",
-    "github": "freddiehubbard",
-    "foursquare": "freddiehubbard"
+    "twitter": "chriskringle",
+    "github": "intotheabyss",
+    "foursquare": "storeychris"
   },
   {
-    "fname": "Miles",
-    "lname": "Davis",
-    "email": "milesdavis@gmail.com",
+    "fname": "Paul",
+    "lname": "Brennan",
+    "email": "brennanbakery@gmail.com",
     "sex": "xy",
     "birthday": "1926-05-26",
     "call": "2025908953",
@@ -52,22 +52,22 @@
     "teams": [
       "design"
     ],
-    "twitter": "milesdavis",
-    "github": "milesdavis",
-    "foursquare": "milesdavis"
+    "twitter": "birdnoise",
+    "github": "githubbery",
+    "foursquare": "paulb"
   },
   {
-    "fname": "Ingrid",
-    "lname": "Jensen",
-    "email": "ingridJensen@gmail.com",
+    "fname": "Phil",
+    "lname": "Mawson",
+    "email": "philspills@gmail.com",
     "sex": "xx",
     "birthday": "1966-01-06",
     "office": "ayacucho",
     "teams": [
       "design"
     ],
-    "twitter": "ingridjensen",
-    "github": "ingridjensen",
-    "foursquare": "ingridjensen"
+    "twitter": "tweetatphil",
+    "github": "javaland",
+    "foursquare": "philm"
   }
 ]
