@@ -69,5 +69,19 @@
     "twitter": "tweetatphil",
     "github": "javaland",
     "foursquare": "philm"
+  },
+  {
+    "fname": "Vibhuti",
+    "lname": "Gupta",
+    "email": "testertester@gmail.com",
+    "sex": "xx",
+    "birthday": "1987-12-12",
+    "office": "bengaluru",
+    "teams": [
+      "business",
+      "engineering"
+    ],
+    "twitter": "iamthemastertester",
+    "github": "notaname"
   }
 ]
